@@ -1,0 +1,33 @@
+{
+  "employees": [
+    { "id": 1, "name": "Amit Sharma", "department": "Engineering", "role": "Software Engineer", "location": "Bangalore", "status": "Active" },
+    { "id": 2, "name": "Neha Verma", "department": "HR", "role": "HR Manager", "location": "Delhi", "status": "Active" },
+    { "id": 3, "name": "Rahul Mehta", "department": "Engineering", "role": "Frontend Developer", "location": "Pune", "status": "Active" },
+    { "id": 4, "name": "Sneha Iyer", "department": "Finance", "role": "Accountant", "location": "Mumbai", "status": "Inactive" },
+    { "id": 5, "name": "Vikas Singh", "department": "Sales", "role": "Sales Executive", "location": "Gurgaon", "status": "Active" },
+
+    { "id": 6, "name": "Pooja Nair", "department": "Marketing", "role": "Marketing Lead", "location": "Bangalore", "status": "Active" },
+    { "id": 7, "name": "Rohit Jain", "department": "Engineering", "role": "Backend Developer", "location": "Noida", "status": "Active" },
+    { "id": 8, "name": "Ananya Gupta", "department": "Design", "role": "UI/UX Designer", "location": "Pune", "status": "Active" },
+    { "id": 9, "name": "Karan Malhotra", "department": "Sales", "role": "Account Manager", "location": "Mumbai", "status": "Inactive" },
+    { "id": 10, "name": "Ritu Kapoor", "department": "HR", "role": "Recruiter", "location": "Delhi", "status": "Active" },
+
+    { "id": 11, "name": "Sahil Arora", "department": "Engineering", "role": "DevOps Engineer", "location": "Bangalore", "status": "Active" },
+    { "id": 12, "name": "Meenal Choudhary", "department": "Finance", "role": "Financial Analyst", "location": "Jaipur", "status": "Active" },
+    { "id": 13, "name": "Arjun Patel", "department": "Engineering", "role": "Tech Lead", "location": "Ahmedabad", "status": "Active" },
+    { "id": 14, "name": "Nidhi Saxena", "department": "Marketing", "role": "Content Strategist", "location": "Noida", "status": "Inactive" },
+    { "id": 15, "name": "Mohit Bansal", "department": "Sales", "role": "Regional Manager", "location": "Chandigarh", "status": "Active" },
+
+    { "id": 16, "name": "Ishita Roy", "department": "Design", "role": "Graphic Designer", "location": "Kolkata", "status": "Active" },
+    { "id": 17, "name": "Deepak Yadav", "department": "Engineering", "role": "QA Engineer", "location": "Lucknow", "status": "Active" },
+    { "id": 18, "name": "Shruti Mishra", "department": "HR", "role": "HR Executive", "location": "Indore", "status": "Inactive" },
+    { "id": 19, "name": "Akash Kulkarni", "department": "Engineering", "role": "Mobile App Developer", "location": "Nagpur", "status": "Active" },
+    { "id": 20, "name": "Tanvi Deshpande", "department": "Finance", "role": "Audit Manager", "location": "Pune", "status": "Active" },
+
+    { "id": 21, "name": "Suresh Reddy", "department": "Operations", "role": "Operations Manager", "location": "Hyderabad", "status": "Active" },
+    { "id": 22, "name": "Kriti Mallick", "department": "Marketing", "role": "SEO Specialist", "location": "Bangalore", "status": "Active" },
+    { "id": 23, "name": "Harsh Vardhan", "department": "Engineering", "role": "Data Engineer", "location": "Gurgaon", "status": "Inactive" },
+    { "id": 24, "name": "Priya Sen", "department": "Support", "role": "Customer Support Lead", "location": "Kolkata", "status": "Active" },
+    { "id": 25, "name": "Naveen Kumar", "department": "IT", "role": "System Administrator", "location": "Chennai", "status": "Active" }
+  ]
+}
